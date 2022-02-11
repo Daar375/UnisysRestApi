@@ -18,6 +18,7 @@
     "name": "Daniel",
     "LastName": "Alvarez"
 }
+
 localhost:56767/api/clients
 {
     "idCard": 157040502,
@@ -38,6 +39,7 @@ localhost:56767/api/movies
 {
     "name": "Lord of The Rings"   
 }
+
 localhost:56767/api/favorites
 
 {
@@ -51,11 +53,13 @@ localhost:56767/api/favorites
     "ClientId": 117040802,
     "MovieId": 2
 }
+
 localhost:56767/api/favorites
 {
     "ClientId": 157040502,
     "MovieId": 3
 }
+
 -GET
 
 localhost:56767/api/clients
