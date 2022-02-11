@@ -10,8 +10,8 @@
 
 #Consutlas de prueba
 
-POST:
-localhost:56767/api/clients
+-POST:
+ localhost:56767/api/clients
 
 {
     "idCard": 117040802,
@@ -56,7 +56,8 @@ localhost:56767/api/favorites
     "ClientId": 157040502,
     "MovieId": 3
 }
-GET
+-GET
+
 localhost:56767/api/clients
 
 localhost:56767/api/clients/117040802
