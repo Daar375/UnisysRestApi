@@ -8,7 +8,7 @@
 -Configurar el archivo appsettings.json con la conexion con la base de datos.
 -Ejecutar
 
-#Consutlas de prueba
+# Consultas de prueba
 
 -POST:
  localhost:56767/api/clients
